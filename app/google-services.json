@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "708353807426",
+    "firebase_url": "https://fir-cm-8a30c.firebaseio.com",
+    "project_id": "fir-cm-8a30c",
+    "storage_bucket": "fir-cm-8a30c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708353807426:android:684a0c7e9e6866b8",
+        "android_client_info": {
+          "package_name": "br.com.murilorodrigues.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708353807426-keg8fn863v9calg2ragk696cq0kdpfhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTNL0TAhJ-qt_seABDiv18V6w3SjFzh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
