@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FCM</string>
+    <string name="token">"My token: "</string>
+    <string name="message_data">"Message data: "</string>
+    <string name="message_notification">"Message Notification Body: "</string>
+    <string name="default_message">Você recebeu 1 nova mensagem</string>
+    <string name="default_title">Nova mensagem</string>
 </resources>
